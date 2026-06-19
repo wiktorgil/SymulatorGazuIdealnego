@@ -23,7 +23,7 @@ cząstki o różnej masie i promieniu poruszające się zgodnie z prawami mechan
 
 Symulacja pozwala obserwować w czasie rzeczywistym:
 - **Rozkład prędkości Maxwell-Boltzmann** — histogram dla każdego gazu osobno
-- **Eqipartycję energii kinetycznej** — gazy o różnej masie mają tę samą ⟨Ek⟩
+- **Equipartycje energii kinetycznej** — gazy o różnej masie mają tę samą ⟨Ek⟩
 - **Dynamiczne ciśnienie** — obliczane z przekazu pędu cząstek do ścian naczynia
 - **Zderzenia sprężyste** — między cząstkami i ze ścianami
 
@@ -57,7 +57,7 @@ pip install pygame
 
 ```bash
 git clone https://github.com/wiktorgil/SymulatorGazuIdealnego.git
-cd NAZWA_REPO
+cd     SymulatorGazuIdealnego
 python main.py
 ```
 
