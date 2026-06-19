@@ -56,7 +56,7 @@ pip install pygame
 ## ▶️ Uruchomienie
 
 ```bash
-git clone https://github.com/TWOJ_LOGIN/NAZWA_REPO.git
+git clone https://github.com/wiktorgil/SymulatorGazuIdealnego.git
 cd NAZWA_REPO
 python main.py
 ```
